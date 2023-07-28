@@ -1,0 +1,15 @@
+C:\Users\a888040\OneDrive - Atos\Desktop\WebServiceTutorial\WebServiceTutorial\bin\Debug\netstandard2.0\WebServiceTutorial.deps.json
+C:\Users\a888040\OneDrive - Atos\Desktop\WebServiceTutorial\WebServiceTutorial\bin\Debug\netstandard2.0\WebServiceTutorial.dll
+C:\Users\a888040\OneDrive - Atos\Desktop\WebServiceTutorial\WebServiceTutorial\bin\Debug\netstandard2.0\WebServiceTutorial.pdb
+C:\Users\a888040\OneDrive - Atos\Desktop\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\WebServiceTutorial.csproj.AssemblyReference.cache
+C:\Users\a888040\OneDrive - Atos\Desktop\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\WebServiceTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a888040\OneDrive - Atos\Desktop\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\a888040\OneDrive - Atos\Desktop\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\a888040\OneDrive - Atos\Desktop\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\WebServiceTutorial.AssemblyInfoInputs.cache
+C:\Users\a888040\OneDrive - Atos\Desktop\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\WebServiceTutorial.AssemblyInfo.cs
+C:\Users\a888040\OneDrive - Atos\Desktop\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\WebServiceTutorial.csproj.CoreCompileInputs.cache
+C:\Users\a888040\OneDrive - Atos\Desktop\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\a888040\OneDrive - Atos\Desktop\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\WebServiceTutorial.dll
+C:\Users\a888040\OneDrive - Atos\Desktop\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\refint\WebServiceTutorial.dll
+C:\Users\a888040\OneDrive - Atos\Desktop\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\WebServiceTutorial.pdb
+C:\Users\a888040\OneDrive - Atos\Desktop\WebServiceTutorial\WebServiceTutorial\obj\Debug\netstandard2.0\ref\WebServiceTutorial.dll

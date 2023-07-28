@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "17EiAwuBkHQvZRrGuezRk9bCNtGYILTxeEKZERvI6aELzkGEAGW0eVT9wRlGHDTp6eNcGlZhXHccRxvVBAssKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a888040\\OneDrive - Atos\\Desktop\\FoodApp\\FoodApp\\FoodApp.iOS\\FoodApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a888040\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\a888040\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\a888040\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

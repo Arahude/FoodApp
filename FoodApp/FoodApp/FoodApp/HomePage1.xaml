@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FoodApp.HomePage1" NavigationPage.HasNavigationBar="False" 
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+            android:TabbedPage.ToolbarPlacement="Bottom"
+            android:TabbedPage.BarSelectedItemColor="Red"
+            android:TabbedPage.BarItemColor="Black"
+            BarBackgroundColor="#F7D989">
+  <!--Pages can be added as references or inline-->
+    <ContentPage Title="Home" IconImageSource="home.png" BackgroundColor="#EDF3D1">
+        <StackLayout>
+        <StackLayout Padding="20">
+        <SearchBar Placeholder="Search the Items"/>
+        </StackLayout>
+        <StackLayout Padding="25,0,0,0">
+            <Label Text="Home" FontSize="45" FontAttributes="Bold"></Label>
+        </StackLayout>
+            <StackLayout BackgroundColor="White">
+                <!-- Use your own layout and functionality here! -->
+                <CollectionView x:Name="collectionList" Margin="10">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid Padding="10" Margin="10">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="Auto" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <Frame BackgroundColor="White" Grid.RowSpan="2" CornerRadius="5" Padding="10">
+                                    <Image    
+                       Source="order.png"    
+                       Aspect="AspectFill"    
+                       HeightRequest="100"    
+                       WidthRequest="100" />
+                                </Frame>
+                                <Label Grid.Column="1"    
+                       Text="{Binding Title}"    
+                       FontAttributes="Bold" />
+                                <Label Margin="0,20,0,0" Grid.Column="1"    
+                       Text="{Binding Description}"    
+                       FontAttributes="Bold" />
+                                <Label Grid.Row="1"    
+                       Grid.Column="1"    
+                       Text="{Binding Price}"    
+                       VerticalOptions="End" />
+                                <Frame Grid.Row="0"    
+                       Grid.Column="2" BackgroundColor="Pink" Padding="10">
+                                    <Label TextColor="White"     
+                       Text="{Binding Percentage}"    
+                       VerticalOptions="Start" />
+                                </Frame>
+
+                                <Image Grid.Row="1" Grid.Column="2"    
+                       Source="star.png"    
+                       HeightRequest="5"    
+                       WidthRequest="5" />
+                            </Grid>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+
+                </CollectionView>
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Orders" IconImageSource="order.png"/>
+    <ContentPage Title="Profile" IconImageSource="user.png"/>
+</TabbedPage>

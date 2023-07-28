@@ -1,0 +1,17 @@
+C:\Users\a888040\OneDrive - Atos\Desktop\FoodApp\FoodApp\FoodApp\obj\Debug\netstandard2.0\FoodApp.csproj.AssemblyReference.cache
+C:\Users\a888040\OneDrive - Atos\Desktop\FoodApp\FoodApp\FoodApp\obj\Debug\netstandard2.0\FoodApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a888040\OneDrive - Atos\Desktop\FoodApp\FoodApp\FoodApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\a888040\OneDrive - Atos\Desktop\FoodApp\FoodApp\FoodApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\a888040\OneDrive - Atos\Desktop\FoodApp\FoodApp\FoodApp\obj\Debug\netstandard2.0\FoodApp.AssemblyInfoInputs.cache
+C:\Users\a888040\OneDrive - Atos\Desktop\FoodApp\FoodApp\FoodApp\obj\Debug\netstandard2.0\FoodApp.AssemblyInfo.cs
+C:\Users\a888040\OneDrive - Atos\Desktop\FoodApp\FoodApp\FoodApp\obj\Debug\netstandard2.0\FoodApp.csproj.CoreCompileInputs.cache
+C:\Users\a888040\OneDrive - Atos\Desktop\FoodApp\FoodApp\FoodApp\obj\Debug\netstandard2.0\FoodApp.dll
+C:\Users\a888040\OneDrive - Atos\Desktop\FoodApp\FoodApp\FoodApp\obj\Debug\netstandard2.0\refint\FoodApp.dll
+C:\Users\a888040\OneDrive - Atos\Desktop\FoodApp\FoodApp\FoodApp\obj\Debug\netstandard2.0\FoodApp.pdb
+C:\Users\a888040\OneDrive - Atos\Desktop\FoodApp\FoodApp\FoodApp\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\a888040\OneDrive - Atos\Desktop\FoodApp\FoodApp\FoodApp\bin\Debug\netstandard2.0\FoodApp.deps.json
+C:\Users\a888040\OneDrive - Atos\Desktop\FoodApp\FoodApp\FoodApp\bin\Debug\netstandard2.0\FoodApp.dll
+C:\Users\a888040\OneDrive - Atos\Desktop\FoodApp\FoodApp\FoodApp\bin\Debug\netstandard2.0\FoodApp.pdb
+C:\Users\a888040\OneDrive - Atos\Desktop\FoodApp\FoodApp\FoodApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\a888040\OneDrive - Atos\Desktop\FoodApp\FoodApp\FoodApp\obj\Debug\netstandard2.0\ref\FoodApp.dll
+C:\Users\a888040\OneDrive - Atos\Desktop\FoodApp\FoodApp\FoodApp\obj\Debug\netstandard2.0\HomePage1.xaml.g.cs

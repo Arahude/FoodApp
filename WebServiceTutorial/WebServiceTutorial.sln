@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServiceTutorial.Android", "WebServiceTutorial.Android\WebServiceTutorial.Android.csproj", "{B75DB514-E224-4E03-9A35-2D2F426CB46E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServiceTutorial", "WebServiceTutorial\WebServiceTutorial.csproj", "{3A54AD39-C00C-4124-85C7-C6912D767A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B75DB514-E224-4E03-9A35-2D2F426CB46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75DB514-E224-4E03-9A35-2D2F426CB46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B75DB514-E224-4E03-9A35-2D2F426CB46E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B75DB514-E224-4E03-9A35-2D2F426CB46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75DB514-E224-4E03-9A35-2D2F426CB46E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B75DB514-E224-4E03-9A35-2D2F426CB46E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3A54AD39-C00C-4124-85C7-C6912D767A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A54AD39-C00C-4124-85C7-C6912D767A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A54AD39-C00C-4124-85C7-C6912D767A61}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3A54AD39-C00C-4124-85C7-C6912D767A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A54AD39-C00C-4124-85C7-C6912D767A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A54AD39-C00C-4124-85C7-C6912D767A61}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A381C85A-FC97-4F93-A11E-96686BDA8646}
+	EndGlobalSection
+EndGlobal
